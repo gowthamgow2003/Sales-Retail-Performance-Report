@@ -224,14 +224,33 @@ The analysis suggests that promotional campaigns did not outperform the standard
 The analysis highlights the **United States** as the company's most profitable market, demonstrating both high sales volume and strong profit margins. In contrast, **China** generates substantial sales volume but delivers comparatively lower profitability, indicating opportunities to improve pricing strategies, reduce operational costs, or optimize product mix. European markets exhibit stable and balanced performance, providing a reliable contribution to overall business growth.
 
 ---
+##  Store Status Performance Analysis
+<img width="700" height="250" alt="Screenshot 2026-07-07 194443" src="https://github.com/user-attachments/assets/3057c625-bc6f-45e8-84ef-acb2c5bac32d" />
+
+
+##  Sales, Quantity & Profit by Store Status
+
+###  Insight
+
+- **Active (On) stores** generated **97.8%** of total sales, quantity sold, and profit, making them the primary contributors to overall business performance.
+- **Inactive (Off) stores** contributed only around **2.2%** across all key business metrics.
+- Despite being marked as **Off**, these stores still recorded a small share of sales and profit, indicating the presence of historical transactions in the dataset.
+- The distribution of sales, quantity, and profit is highly consistent between active and inactive store groups.
+
+###  Business Insight
+
+The analysis confirms that the company's revenue, sales volume, and profitability are driven almost entirely by **active stores**. The small contribution from inactive stores likely represents historical sales data rather than current business activity. This insight helps stakeholders understand the operational impact of store status and emphasizes the importance of maintaining a strong active retail network.
+
+---
 
 ###  Key Findings
 
-- **Top Revenue & Profit Market:** United States
-- **Highest Sales Volume:** United States
-- **Highest Profit Contribution:** United States (65.98%)
-- **Second Largest Market:** China
-- **Lower Profit Margin Market:** China (Higher volume than profit contribution)
-- 🇩🇪 🇫🇷 🇬🇧 **Stable Markets:** Germany, France, and the United Kingdom
+-  **Active Stores (On):**
+  - **35M** products sold (**97.84%**)
+  - **$8.9B** total sales (**97.79%**)
+  - **$5.1B** total profit (**97.78%**)
 
-> **Visualization Note:** This chart compares **Quantity Sold %, Total Sales %, and Total Profit %** on a shared scale, enabling stakeholders to evaluate market performance, identify high-margin regions, and compare revenue efficiency across countries in a single visualization.
+-  **Inactive Stores (Off):**
+  - **1M** products sold (**2.16%**)
+  - **$0.2B** total sales (**2.21%**)
+  - **$0.1B** total profit (**2.22%**)
