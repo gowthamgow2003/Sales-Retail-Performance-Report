@@ -103,7 +103,7 @@ The continuous reduction in product returns reflects improved operational effici
 
 ---
 
-#  Product Performance Analysis
+##  Product Performance Analysis
 <img width="1000" height="500" alt="Picture3" src="https://github.com/user-attachments/assets/82c71ad3-85f6-4245-9d17-953387064899" />
 
 ##  Sales by Product Category (Split by Sales Channel)
@@ -137,3 +137,101 @@ Store-based sales remain the primary revenue driver across all product categorie
 High-performing subcategories contribute a substantial share of total revenue and should remain key focus areas for inventory planning, promotions, and investment. Lower-performing subcategories present opportunities for demand generation through targeted marketing, pricing optimization, or product assortment improvements.
 
 ---
+##  Store Performance Analysis
+<img width="905" height="447" alt="Profitmargin" src="https://github.com/user-attachments/assets/3150c38c-ff75-47d5-bad4-f48be3a61d0b" />
+
+##  Total Sales & Profit Margin by Store
+
+###  Insight
+
+- **Catalog Store** generated the highest total sales, reaching approximately **$1.05B**, making it the top-performing sales channel.
+- **North America Online** ranked second with nearly **$995M** in sales, followed by **Asia Online** at approximately **$920M**.
+- The **Top 5 stores** contributed the majority of total sales, while the remaining stores generated comparatively lower revenue.
+- Profit margins remained relatively stable across all stores, fluctuating within a narrow range of **56.2%–57.0%**.
+- The dashboard includes an **Average Profit Margin Reference Line (56.6%)**, enabling quick identification of stores performing above or below the overall profitability benchmark.
+
+###  Business Insight
+
+The analysis indicates that high sales volume does not always correspond to significantly higher profit margins. While leading stores drive substantial revenue, profitability remains consistently maintained across the retail network. This suggests effective pricing strategies and cost management practices. Lower-performing stores represent opportunities for sales growth through targeted promotions, localized marketing, and operational improvements.
+
+###  Key Findings
+
+-  Highest Sales Store: **Catalog Store** (~**$1.05B**)
+-  Second Highest: **North America Online** (~**$995M**)
+-  Third Highest: **Asia Online** (~**$920M**)
+-  Average Profit Margin: **56.6%**
+-  Highest Profit Margin: ~**57.0%**
+-  Lowest Profit Margin: ~**56.2%**
+---
+##  Promotion & Discount Performance Analysis
+<img width="1000" height="500" alt="Screenshot 2026-07-07 182156" src="https://github.com/user-attachments/assets/9d9ce384-05b2-4b45-8094-8cb9e011d948" />
+
+##  Sales Performance by Discount Percentage
+
+###  Insight
+
+- The **0% discount (No Discount)** generated the highest total sales of **$4.05B**, outperforming all discounted sales tiers.
+- Sales declined significantly at **5%** and reached the lowest levels at **7%** and **15%** discount tiers (approximately **$0.6B** each).
+- Although **10%** and **20%** discounts performed better than other discounted tiers, they still generated substantially lower sales than the no-discount baseline.
+- The analysis indicates **no consistent positive relationship between increasing discounts and higher sales**.
+
+###  Business Insight
+
+Offering larger discounts did not consistently increase sales performance. In this dataset, customers continued purchasing products even without promotional discounts, suggesting that factors such as product demand, brand value, or market conditions had a greater influence on purchasing behavior than discount percentage alone.
+
+---
+
+##  Promotion Performance Analysis
+
+<img width="1000" height="500" alt="Screenshot 2026-07-07 182228" src="https://github.com/user-attachments/assets/ffed8e36-19f6-4cc2-97a8-0dea78f86378" />
+
+###  Insight
+
+- **No Discount** achieved the highest sales, generating approximately **$4.2B**, making it the best-performing sales condition.
+- Among promotional campaigns, **North America Back-to-School** delivered the strongest performance with approximately **$1.9B** in sales.
+- Most promotional campaigns generated sales below the overall average sales benchmark of **$1.25B**.
+- Total profit followed a similar downward trend as total sales, indicating that lower sales volumes also resulted in lower profitability.
+
+###  Business Insight
+
+The analysis suggests that promotional campaigns did not outperform the standard pricing strategy. While certain seasonal promotions contributed positively to revenue, the majority of campaigns generated lower sales and profit compared to the **No Discount** baseline. This highlights the importance of evaluating promotion effectiveness before implementing large-scale discount strategies.
+
+###  Key Findings
+
+-  Highest Sales (No Discount): **$4.2B**
+-  Highest Discount-Free Sales Tier: **0% Discount ($4.05B)**
+-  Lowest Sales Discount Tiers: **7% and 15% Discounts (~$0.6B)**
+-  Best Performing Promotion: **North America Back-to-School**
+-  Average Promotion Sales Benchmark: **$1.25B**
+-  Increasing discounts did **not** consistently improve sales performance.
+---
+##  Geographic Performance Analysis
+
+<img width="1000" height="500" alt="Screenshot 2026-07-07 185107" src="https://github.com/user-attachments/assets/6192d179-396e-49c9-8153-f08370e88dd0" />
+
+##  Sales, Quantity & Profit Contribution by Country
+
+###  Insight
+
+- The **United States** is the dominant market, contributing approximately **65%** of total sales, quantity sold, and overall profit.
+- The **US Profit Share (65.98%)** slightly exceeds its Sales Share (65.84%), indicating **stronger profit margins** compared to other markets.
+- **China** is the second-largest market, contributing approximately **15.5%** of total sales and profit. However, its **quantity sold share (16.67%)** is higher than its profit share, suggesting **lower profit margins**.
+- **Germany**, **France**, and the **United Kingdom** maintain balanced contributions across sales, quantity, and profit, indicating consistent business performance.
+- Overall, the geographic distribution of sales, volume, and profitability remains highly consistent across major markets.
+
+###  Business Insight
+
+The analysis highlights the **United States** as the company's most profitable market, demonstrating both high sales volume and strong profit margins. In contrast, **China** generates substantial sales volume but delivers comparatively lower profitability, indicating opportunities to improve pricing strategies, reduce operational costs, or optimize product mix. European markets exhibit stable and balanced performance, providing a reliable contribution to overall business growth.
+
+---
+
+###  Key Findings
+
+- **Top Revenue & Profit Market:** United States
+- **Highest Sales Volume:** United States
+- **Highest Profit Contribution:** United States (65.98%)
+- **Second Largest Market:** China
+- **Lower Profit Margin Market:** China (Higher volume than profit contribution)
+- 🇩🇪 🇫🇷 🇬🇧 **Stable Markets:** Germany, France, and the United Kingdom
+
+> **Visualization Note:** This chart compares **Quantity Sold %, Total Sales %, and Total Profit %** on a shared scale, enabling stakeholders to evaluate market performance, identify high-margin regions, and compare revenue efficiency across countries in a single visualization.
