@@ -22,8 +22,6 @@ The project demonstrates a complete data analytics workflow, including data qual
 | **Analysis Period** | **2007 – 2009** |
 | **Final Dataset** | Consolidated into a single analytical table (`MainTable`) |
 
-> **Note:** The Contoso Retail Sales Dataset is a Microsoft official dataset designed for Business Intelligence, SQL, and Power BI learning. It simulates real-world retail operations including sales, products, stores, promotions, and calendar data.
-
 ---
 ## Project Objectives
 - Perform end-to-end data cleaning using SQL Server.
