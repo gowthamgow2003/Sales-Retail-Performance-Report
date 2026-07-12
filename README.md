@@ -6,7 +6,7 @@ This project presents an end-to-end **Sales & Retail Analytics Report** built us
 
 The project demonstrates a complete data analytics workflow, including data quality assessment, duplicate removal, missing value handling, SQL-based business analysis, Power BI data modeling, DAX measure creation, and executive dashboard development.
 
----
+--
 
 ## Dataset Information
 
@@ -57,8 +57,56 @@ The project demonstrates a complete data analytics workflow, including data qual
 -  **8% Average Discount** offered across promotional campaigns.
 
 ---
-##  Total Sales Trend
+
+##  Sales Revenue, Order Volume & Average Order Value (AOV) Analysis
+<img width="1000" height="500" alt="AOV" src="https://github.com/user-attachments/assets/9308178d-51ca-49c7-b9dc-a8f6dd2378a0" />
+
+
+This analysis evaluates how **Sales Revenue**, **Order Volume**, and **Average Order Value (AOV)** changed over the three-year period (2007–2009), providing insights into customer purchasing behavior and overall business performance.
+
+###  Sales Revenue Trend
+- Total sales revenue declined from **$4.56B in 2007** to **$3.74B in 2009**.
+- The steady decline indicates reduced overall business revenue during the analysis period.
+- This trend suggests the need to investigate factors such as lower customer demand, market conditions, or changes in product performance.
+
+###  Number of Orders Trend
+- Total orders decreased from **1.47M** to **0.88M**, representing a significant reduction in transaction volume.
+- The decline in order count indicates fewer customer purchases over time.
+- This may reflect reduced customer acquisition, lower purchase frequency, or changing buying behavior.
+
+###  Average Order Value (AOV) Trend
+- Average Order Value increased from **$3,104** in 2007 to **$4,227** in 2009.
+- Although fewer orders were placed, customers spent more per transaction.
+- The increasing AOV suggests higher-value purchases, premium product sales, or improved pricing strategies that partially offset declining order volume.
+
+###  Business Insights
+- Revenue declined primarily because the number of customer orders decreased over time.
+- Despite lower transaction volume, the increase in Average Order Value indicates customers generated more revenue per purchase.
+- Combining these metrics provides a comprehensive view of business performance by highlighting both customer purchasing behavior and revenue trends, helping stakeholders identify opportunities to improve customer acquisition while maintaining higher-value sales.
+
+---
+
+##  Year-over-Year Growth Analysis (2008–2009)
+
+<img width="1000" height="500" alt="Growth percen" src="https://github.com/user-attachments/assets/f32c9dea-231f-4413-87c5-8a46e2d25641" />
+
+### Insight
+
+- This chart compares **Year-over-Year (YoY) Sales Growth (%)** and **Average Order Value (AOV) Growth (%)** from **2008 to 2009**, highlighting monthly performance trends.
+- AOV growth remained positive in most months, indicating customers consistently spent more per order despite fluctuations in sales.
+- Sales growth was negative across many months, reflecting a decline in overall revenue compared to the same period in the previous year.
+- Average growth reference lines provide a benchmark for identifying periods that outperformed or underperformed the overall trend.
+
+### Business Insight
+
+Between **2008 and 2009**, the business experienced **strong growth in Average Order Value** while **overall sales declined in many periods**. This indicates that although customers placed fewer orders, they spent more per transaction. The analysis suggests an opportunity to improve customer acquisition and order frequency while maintaining higher order values to drive sustainable revenue growth.
+
+---
+
+## Sales Analysis
 <img width="1000" height="500" alt="sales trend" src="https://github.com/user-attachments/assets/4f360581-d8d9-4ecb-9bf2-349588945a41" />
+
+##  Total Sales Trend
 
 ###  Insight
 
