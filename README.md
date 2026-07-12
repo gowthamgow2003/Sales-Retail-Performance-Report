@@ -8,6 +8,35 @@ The project demonstrates a complete data analytics workflow, including data qual
 
 --
 
+## 🎯 Business Objectives
+
+- Evaluate sales and profitability trends to support strategic business decisions.
+- Identify high-performing products, stores, and regions to maximize revenue and profit.
+- Analyze customer purchasing behavior through Average Order Value (AOV) and sales growth metrics.
+- Assess the effectiveness of promotional discounts and pricing strategies.
+- Enable executives with interactive KPI dashboards for data-driven decision-making.
+
+---
+
+##  Business Questions Answered
+
+This Report was developed to answer key business questions that support strategic decision-making across Sales, Product, Store, and Regional operations.
+
+- Which product categories and subcategories generate the highest sales and profit?
+- How have total sales, profit, and return amounts changed between **2007 and 2009**?
+- Which regions and countries contribute the most to overall revenue and profitability?
+- How do active and inactive stores impact sales and business performance?
+- Which products should be prioritized based on revenue and profitability?
+- How effective are promotional discounts in driving sales growth?
+- What is the trend of **Average Order Value (AOV)** over time?
+- How do **Sales Growth (%)** and **AOV Growth (%)** compare year-over-year?
+- Which months consistently perform above or below the average sales benchmark?
+- What are the key performance indicators (KPIs) that executives should monitor regularly?
+- Which business areas require immediate attention to improve profitability and operational efficiency?
+- What strategic actions can be recommended based on sales trends, product performance, regional insights, and customer purchasing behavior?
+
+---
+
 ## Dataset Information
 
 | Attribute | Details |
@@ -21,15 +50,6 @@ The project demonstrates a complete data analytics workflow, including data qual
 | **Total Records Analyzed** | **3.4 Million+ Sales Transactions** |
 | **Analysis Period** | **2007 – 2009** |
 | **Final Dataset** | Consolidated into a single analytical table (`MainTable`) |
-
----
-## Project Objectives
-- Perform end-to-end data cleaning using SQL Server.
-- Identify and remove duplicate records.
-- Handle missing values and validate data quality.
-- Create business KPIs for executive reporting.
-- Analyze sales, profit, and return trends.
-- Develop an interactive Power BI dashboard for business decision-making.
 
 ---
 
@@ -376,3 +396,11 @@ The analysis indicates that sustainable business growth should focus on improvin
 
 
 ---
+
+##  Project Outcomes
+
+- Built an executive Power BI dashboard using 3.4M+ retail transactions.
+- Developed reusable SQL queries for data cleaning and KPI analysis.
+- Created DAX measures for Sales Growth, AOV, Profit Margin, and YoY comparisons.
+- Delivered business recommendations across Sales, Products, Pricing, Stores, and Regional Performance.
+
