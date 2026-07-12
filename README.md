@@ -8,7 +8,7 @@ The project demonstrates a complete data analytics workflow, including data qual
 
 --
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Evaluate sales and profitability trends to support strategic business decisions.
 - Identify high-performing products, stores, and regions to maximize revenue and profit.
