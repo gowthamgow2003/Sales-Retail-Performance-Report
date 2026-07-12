@@ -301,6 +301,8 @@ The analysis confirms that the company's revenue, sales volume, and profitabilit
   - **$0.2B** total sales (**2.21%**)
   - **$0.1B** total profit (**2.22%**)
 
+---
+
 # Recommendations
 
 Based on the analysis of **3.4M+ retail sales transactions (2007–2009)**, the following strategic recommendations can help improve business performance across sales, products, pricing, stores, and regional operations.
@@ -365,6 +367,8 @@ Based on the analysis of **3.4M+ retail sales transactions (2007–2009)**, the 
 - Implement real-time KPI tracking to identify business performance issues earlier.
 - Standardize business metrics across departments to improve reporting consistency.
 - Schedule periodic executive performance reviews using interactive dashboards to support strategic decision-making.
+
+---
 
 ##  Overall Recommendation
 
